@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "607617942119",
+    "firebase_url": "https://onlinequiz-4cb7f.firebaseio.com",
+    "project_id": "onlinequiz-4cb7f",
+    "storage_bucket": "onlinequiz-4cb7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607617942119:android:1037c3c21ded4bfab6cac2",
+        "android_client_info": {
+          "package_name": "com.example.onlinequiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607617942119-oinlevu87kmvmnu2c9a60pn2djmot02r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.onlinequiz",
+            "certificate_hash": "0901889575f51f9b68b729b48e4609fb3ccaf709"
+          }
+        },
+        {
+          "client_id": "607617942119-6m75b2vduqs4hnkfj0g7ug0oq1kcvabl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMh-ShV5kp0Ky0LqiNUN00UzUw2Ii3h7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607617942119-6m75b2vduqs4hnkfj0g7ug0oq1kcvabl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
